@@ -2,3 +2,4 @@ Packing list
 -------
 shoes
 picnic
+camera
